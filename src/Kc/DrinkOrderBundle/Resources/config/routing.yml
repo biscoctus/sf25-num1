@@ -1,0 +1,4 @@
+kc_drink_order_product:
+#KcDrinkOrderBundle_product:
+    pattern:  /order
+    defaults: { _controller: KcDrinkOrderBundle:DrinkOrder:product }

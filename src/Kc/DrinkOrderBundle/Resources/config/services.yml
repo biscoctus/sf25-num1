@@ -1,0 +1,7 @@
+parameters:
+#    kc_drink_order.example.class: Kc\DrinkOrderBundle\Example
+
+services:
+#    kc_drink_order.example:
+#        class: %kc_drink_order.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

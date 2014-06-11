@@ -1,0 +1,4 @@
+kc_drink_order:
+    resource: "@KcDrinkOrderBundle/Resources/config/routing.yml"
+    prefix:   /
+
